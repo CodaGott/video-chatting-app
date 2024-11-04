@@ -39,6 +39,6 @@ public class UserService {
     }
 
     public List<User> findAll(){
-        return USER_LIST
+        return USER_LIST;
     }
 }
